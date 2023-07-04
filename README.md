@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinay1719
 - 👀 I’m interested in ... Programming and Embedded system projects
-- 🌱 I’m currently pursuing ... Electronic and communication engineering
+
 - 💞️ Reach me... Mail id: acharyavinay200201@gmail.com
 
 <!---
