@@ -10,4 +10,5 @@
 
 🤝 I'm enthusiastic about collaborative opportunities that challenge me to think creatively and analytically. If you're seeking a dedicated engineer with a knack for coding, problem-solving, and a drive for innovation, let's connect! Feel free to reach out to me at [acharyavinay24@gmail.com](mailto:acharyavinay24@gmail.com).
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinayacharya24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinayacharya24)](https://www.linkedin.com/in/vinayacharya24)
+
