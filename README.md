@@ -1,4 +1,4 @@
-"👋 Hi there! I'm Vinay Acharya, a recent Electronics and Communication Engineering graduate with a passion for innovative technology and problem-solving.
+👋 Hi there! I'm Vinay Acharya, a recent Electronics and Communication Engineering graduate with a passion for innovative technology and problem-solving.
 
 🎓 I recently graduated with a B.E. in Electronics and Communication Engineering, achieving a commendable CGPA of 7.55. My academic journey has equipped me with a strong foundation in the field, and I'm excited to apply my knowledge to real-world challenges.
 
@@ -10,9 +10,4 @@
 
 🤝 I'm enthusiastic about collaborative opportunities that challenge me to think creatively and analytically. If you're seeking a dedicated engineer with a knack for coding, problem-solving, and a drive for innovation, let's connect! Feel free to reach out to me at acharyavinay24@gmail.com .
 
-#ElectronicsAndCommunication #EngineeringGraduate #CodingEnthusiast #InnovationMatters"
-
-<!---
-vinay1719/vinay1719 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayacharya24)
