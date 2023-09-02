@@ -8,7 +8,6 @@
 
 🔌 Additionally, I'm intrigued by the realm of VLSI design and its potential for high-speed computing. I've successfully undertaken a project involving the design and VLSI implementation of a low-power multiplier architecture using Vedic mathematics, utilizing Cadence Virtuoso and 45nm technology.
 
-🤝 I'm enthusiastic about collaborative opportunities that challenge me to think creatively and analytically. If you're seeking a dedicated engineer with a knack for coding, problem-solving, and a drive for innovation, let's connect! Feel free to reach out to me at [acharyavinay24@gmail.com](mailto:acharyavinay24@gmail.com).
+🤝 I'm enthusiastic about collaborative opportunities that challenge me to think creatively and analytically. If you're seeking a dedicated engineer with a knack for coding, problem-solving, and a drive for innovation, let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinayacharya24)](https://www.linkedin.com/in/vinayacharya24)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayacharya24)
